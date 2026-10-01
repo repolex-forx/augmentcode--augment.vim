@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/augmentcode/augment.vim/commit/71f49befb94d3ddcf42220d640e892bd025dda5d",
       "git:hexsha": "71f49befb94d3ddcf42220d640e892bd025dda5d",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T08:02:52.270531+00:00"
     },
     {
       "@id": "https://repolex.ai/r/augmentcode/augment.vim/commit/942c79addd25461d583aa94d026344824d07b594",
