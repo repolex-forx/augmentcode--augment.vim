@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/augmentcode/augment.vim/commit/71f49befb94d3ddcf42220d640e892bd025dda5d",
       "git:hexsha": "71f49befb94d3ddcf42220d640e892bd025dda5d",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     },
     {

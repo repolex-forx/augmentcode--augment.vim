@@ -1,0 +1,17 @@
+[2026-10-01T07:30:16Z] === ENRICH ITERATION 1 START | repo=augmentcode/augment.vim sha=71f49bef ===
+[2026-10-01T07:30:16Z] [iter=1] PHASE START: enrich repo=augmentcode/augment.vim sha=71f49bef runlog=/home/runner/work/forx/forx/storage/aggregate/lsp/logs/71f49bef-enrich-iter-001.log output=/home/runner/work/forx/forx/storage/aggregate/lsp/71f49befb94d3ddcf42220d640e892bd025dda5d.nq.gz
+[2026-10-01T07:30:16Z] [iter=1] Step 1: Loading AST into disk-backed store mem_mb=78 MB
+[2026-10-01T07:30:26Z] [iter=1] AST store loaded triples=1090078 load_secs=10 mem_mb=900 MB
+[2026-10-01T07:30:26Z] [iter=1] Step 2: Finding LSP targets mem_mb=900 MB
+[2026-10-01T07:30:27Z] [iter=1] LSP targets found call_sites=8474 imports=0 extends=1 implements=0 secs=1
+[2026-10-01T07:30:27Z] [iter=1] Step 2.7: Building position index (one-shot, shared across resolvers) mem_mb=900 MB
+[2026-10-01T07:30:31Z] [iter=1] Position index built positions=76092 nodes_with_types=86927 secs=5 mem_mb=900 MB
+[2026-10-01T07:30:31Z] [iter=1] Step 3: Starting LSP resolution mem_mb=900 MB already_completed_types=[] already_completed_files=0
+[2026-10-01T07:30:31Z] [iter=1] Resolving target type target_type=call_site count=8474
+[2026-10-01T07:58:17Z] [iter=1] HEARTBEAT target_type=call_site elapsed_min=28.0 files_done=1 resolved=1231 errors=3538 current=lua/augment.lua
+[2026-10-01T07:58:18Z] [iter=1] Target type resolved target_type=call_site resolved=1233 errors=3538 secs=1667 mem_mb=900 MB
+[2026-10-01T07:58:18Z] [iter=1] Resolving target type target_type=extends_clause count=1
+[2026-10-01T07:58:20Z] [iter=1] Target type resolved target_type=extends_clause resolved=1 errors=0 secs=2 mem_mb=900 MB
+[2026-10-01T07:58:25Z] [iter=1] Step 5: Writing final enrichment file triples=74115
+[2026-10-01T07:58:26Z] [iter=1] Enrichment file written path=/home/runner/work/forx/forx/storage/aggregate/lsp/71f49befb94d3ddcf42220d640e892bd025dda5d.nq.gz size_kb=1069
+[2026-10-01T07:58:26Z] [iter=1] PHASE END: enrich elapsed_s=1690 elapsed_min=28.2 total_triples=74115
