@@ -1,0 +1,11 @@
+{
+  "org": "augmentcode",
+  "repo": "augment.vim",
+  "versions": [
+    {
+      "commit": "71f49befb94d3ddcf42220d640e892bd025dda5d",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:02:52.271259+00:00"
+    }
+  ]
+}
