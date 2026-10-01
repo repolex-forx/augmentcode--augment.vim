@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "augmentcode",
+  "repo": "augment.vim",
+  "versions": [
+    {
+      "commit": "71f49befb94d3ddcf42220d640e892bd025dda5d",
+      "parsed_at": "2026-10-01T07:23:21.302151+00:00",
+      "tag": "main",
+      "filetree": "filetree/71f49befb94d3ddcf42220d640e892bd025dda5d.nq.gz",
+      "blobs": [
+        "blob/2e65f401caa685c0e9dc73cab6d1b6de504f2799.nq.gz",
+        "blob/254ed9c0c105af3e4df99991bec98a4c830bd6aa.nq.gz",
+        "blob/07b9d806bd0ed34fb42f7c99fea5651d98181afd.nq.gz",
+        "blob/fcf067b60fe97fb36595a06468ae4475b5ff5c2d.nq.gz",
+        "blob/4eccf2a1d36b17cc16ca7b7f19e21bcd17218ad9.nq.gz",
+        "blob/0300e649779d641edc0189de35ee286ea3f8b267.nq.gz",
+        "blob/549f584fb00a8f54647c6644a56f558f4e0eb281.nq.gz",
+        "blob/a6afeea760c9658cbb62d712eabaf3681a53aee8.nq.gz",
+        "blob/d52f0421de227148e83eeaf4921c8c1cd09cfc22.nq.gz",
+        "blob/fbb74690d4498e7148f039cc2cd1fbfc9afc1919.nq.gz",
+        "blob/c69a7f8f5479a66acfbe4d96bf0798fe71a5c172.nq.gz",
+        "blob/5f1c221bded62c41225e3b84cd8be9597db9d969.nq.gz",
+        "blob/34e63ba8d410297d8d1dced7238148a712614849.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
